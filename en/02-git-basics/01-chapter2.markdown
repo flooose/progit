@@ -780,7 +780,7 @@ You can also specify `-v`, which shows you the URL that Git has stored for the s
 	$ git remote -v
 	origin	git://github.com/schacon/ticgit.git
 
-If you have more than one remote, the command lists them all. For example, my Grit repository looks something like this.
+If you have more than one remote, the command lists them all. For example, my Git repository looks something like this.
 
 	$ cd grit
 	$ git remote -v
